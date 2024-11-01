@@ -37,7 +37,7 @@ The AWS Certified Cloud Practitioner certification is a great starting point for
 
 ## 📖 Recommended Resources
 
-## ➡️ [🚀 Check-out my complete AWS Cloud Practitoner Guide.](https://github.com/Kzax01/Master-the-AWS-cloud-practitioner-cert/blob/main/AWS-%20CCP-%20Kenza%20S%20guide.pdf)
+## ➡️ [🔗 Check-out my complete AWS Cloud Practitoner Guide.](https://github.com/Kzax01/Master-the-AWS-cloud-practitioner-cert/blob/main/AWS-%20CCP-%20Kenza%20S%20guide.pdf)
 I've added all of the AWS Services that you need to know for the exam 🎯
 
 ### 📙 Official Resources
