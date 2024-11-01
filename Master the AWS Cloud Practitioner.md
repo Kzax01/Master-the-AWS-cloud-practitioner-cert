@@ -37,6 +37,7 @@ The AWS Certified Cloud Practitioner certification is a great starting point for
 
 ## 📖 Recommended Resources
 
+
 ### Official Resources
 1. **AWS Training and Certification**:
    - [AWS Cloud Practitioner Essentials](https://www.aws.training/Details/Curriculum?id=20685)  
