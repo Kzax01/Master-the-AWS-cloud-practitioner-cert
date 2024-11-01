@@ -1,5 +1,7 @@
 # 🏆 How to Pass the AWS Certified Cloud Practitioner Exam
 
+![How to Prepare for Your AWS Cloud Practitioner Certification](https://images.ctfassets.net/7vvilgx54gxl/T6crmZmvqTENkx2A5sFRa/fd16f2ebbecdf47042f982f9d5185e21/How_To_Prepare_For_Your_AWS_Cloud_Practitioner_Certification__CLF-C02_.png)
+
 The AWS Certified Cloud Practitioner certification is a great starting point for anyone looking to enter the world of cloud computing and AWS. This foundational certification validates your understanding of AWS Cloud concepts, services, security, architecture, pricing, and support. Here’s a guide to help you prepare effectively!
 
 ## 📚 Key Tips for Success
