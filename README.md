@@ -85,7 +85,7 @@ Good luck on your journey to AWS certification! 🚀
 ------
 
 ### 💬 Let's Connect!
-If you'd like to connect, feel free to reach out on LinkedIn: [Kenza S. - Cyber & Cloud](https://www.linkedin.com/in/kenza-s-cyber-cloud)
+If you'd like to connect, feel free to reach out on LinkedIn: [Kenza In The Cloud](https://www.linkedin.com/in/kenza-in-the-cloud/)
 
 ### ☁️  I look forward to connecting with you!
 
