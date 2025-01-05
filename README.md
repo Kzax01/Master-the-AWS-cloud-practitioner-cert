@@ -14,6 +14,6 @@ In this repository, we're going to **master the AWS Certified Cloud Practitioner
 Whether you're just starting or looking to refine your knowledge, this repo has something for everyone on their path to certification. 
 
 ### **Let's Embark on This Journey Together!** 💪
-If you'd like to connect, feel free to reach out on LinkedIn: [Kenza S. - Cyber & Cloud](https://www.linkedin.com/in/kenza-s-cyber-cloud)
+If you'd like to connect, feel free to reach out on LinkedIn: [Kenza In The Cloud](https://www.linkedin.com/in/kenza-in-the-cloud/)
 
 ### ☁️  I look forward to connecting with you!
