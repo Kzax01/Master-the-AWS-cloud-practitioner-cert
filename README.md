@@ -3,7 +3,7 @@
 
 The **AWS Certified Cloud Practitioner (CCP)** is the **ideal starting point** for anyone entering the **AWS ecosystem**. 🌍  
 
-Whether you aim to be a **Solutions Architect**, **Developer**, or **SysOps Admin**, the CCP builds your **cloud fundamentals**—concepts, services, and pricing models. 💡  
+Whether you aim to be a **Solutions Architect**, **Developer**, or **SysOps Admin**, the CCP builds your **cloud fundamentals** concepts, services, and pricing models. 💡  
 
 More than an exam, it’s your **launchpad to AWS expertise**. ☁️✨  
 
