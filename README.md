@@ -26,7 +26,7 @@ More than an exam, it’s your **launchpad to AWS expertise**. ☁️✨
 - **Domain 3: Cloud Technology and Services** – 34%
 - **Domain 4: Billing, Pricing, and Support** – 12%
 
-➡️ I've made a full breakdown of these Domain here ⬅️
+[➡️ I've made a full breakdown of these Domain here ⬅️](https://github.com/Kzax01/Master-the-AWS-cloud-practitioner-cert/blob/main/Domains%20breakdown.md)
 ---
 
 ### 2️⃣ **Know the Topics Covered**
