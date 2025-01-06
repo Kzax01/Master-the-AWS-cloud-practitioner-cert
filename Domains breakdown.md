@@ -96,6 +96,6 @@ You can find these info in the AWS CCP official guide [here.](https://d1.awsstat
 
 ---
 
-☞ Click here to come back to the main guide.
+[☞ Click here to come back to the main guide.](https://github.com/Kzax01/Master-the-AWS-cloud-practitioner-cert/tree/main)
 
 > Disclaimer : I'm sure sharing what have worked for me. 
