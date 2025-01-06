@@ -1,21 +1,11 @@
 
-## 📝 **Exam Breakdown**: What to Expect
+## AWS CCP Exam: Content Domains Breakdown 🎯
 
 As we move forward, let's take a quick glance at the content domains of the **AWS Solutions Architect Associate** exam to help you prepare strategically. Here's a concise overview of the key domains, their weightings, and the topics you'll need to master! 🧑‍💻
 
 <p align="center">
   <img src="https://testersdock.com/wp-content/uploads/2024/09/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" />
 </p>
-
-
-
----
-
-### 🔑 **Content Domains & Weightings**:
-- **Domain 1: Cloud Concepts** – 24%
-- **Domain 2: Security and Compliance** – 30%
-- **Domain 3: Cloud Technology and Services** – 34%
-- **Domain 4: Billing, Pricing, and Support** – 12%
 
 ---
 
