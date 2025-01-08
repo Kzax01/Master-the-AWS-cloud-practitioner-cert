@@ -69,8 +69,7 @@ More than an exam, it’s your **launchpad to AWS expertise**. ☁️✨
 
 ## 📖 Recommended Resources
 
-## ➡️ 
-I've added all of the AWS Services that you need to know for the exam 🎯
+## [**➡️ I've added all of the AWS Services that you need to know for the exam 🎯 ⬅️**](https://github.com/Kzax01/Master-the-AWS-cloud-practitioner-cert/blob/main/New%20CCP%20guide.pdf)
 
 ### 📙 Official Resources from AWS :
 
