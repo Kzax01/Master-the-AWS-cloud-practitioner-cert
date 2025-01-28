@@ -115,13 +115,26 @@ And most importantly: **Celebrate your victories, big or small.**
 
 --- 
 
-## 💬 Let's Connect!
+## 🌐  Let’s Connect!  
+Thank you for visiting my GitHub! 🌸  
 
-If you're preparing for the SAA, or if you're considering it, let me know!
+Here, I share my **Cloud Security projects** and **AWS learning journey**.  
+Looking for **Cloud Computing Security** articles? Check out my **Medium**!  
 
-Feel free to connect with me on LinkedIn: [Kenza In The Cloud](https://www.linkedin.com/in/kenza-in-the-cloud/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/kenza-in-the-cloud/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://discord.com/users/kzax01" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://medium.com/@Kenza.In.The.Cloud" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
+</p>
 
-Looking forward to sharing more! ✨
+
+### ☁️ Let’s build the future of cloud together! 
 
 ---
 
@@ -129,4 +142,7 @@ Looking forward to sharing more! ✨
 > **Disclaimer ⚠:**  
 > I am just sharing what have worked for me. 
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/91/1d/91/911d914aaf6194489a3f5626bed2bd3a.gif" width="600" alt="Cool GIF">
+</p>
 
