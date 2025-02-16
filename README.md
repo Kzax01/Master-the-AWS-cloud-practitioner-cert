@@ -7,13 +7,11 @@ Whether you aim to be a **Solutions Architect**, **Developer**, or **SysOps Admi
 
 More than an exam, it’s your **launchpad to AWS expertise**. ☁️✨  
 
-
-![How to Prepare for Your AWS Cloud Practitioner Certification](https://images.ctfassets.net/7vvilgx54gxl/T6crmZmvqTENkx2A5sFRa/fd16f2ebbecdf47042f982f9d5185e21/How_To_Prepare_For_Your_AWS_Cloud_Practitioner_Certification__CLF-C02_.png)
-
+<p align="center">
+  <img src="https://github.com/Kzax01/Master-the-AWS-cloud-practitioner-cert/blob/main/ccp%20kenza%20github%20banner.gif" width="1100" alt="kenza banner">
+</p>
 
 ## 📚 **Key Tips for Success**
-
----
 
 ### 1️⃣ **Understand the Exam Format**
    - **Number of questions**: 65 multiple-choice questions.
