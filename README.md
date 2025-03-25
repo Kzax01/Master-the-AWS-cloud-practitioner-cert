@@ -8,7 +8,7 @@ Whether you aim to be a **Solutions Architect**, **Developer**, or **SysOps Admi
 More than an exam, it’s your **launchpad to AWS expertise**. ☁️✨  
 
 <p align="center">
-  <img src="https://github.com/Kzax01/Master-the-AWS-cloud-practitioner-cert/blob/main/ccp%201%20github%20kenza%20banner.gif" width="1100" alt="kenza banner">
+  <img src="https://github.com/Kzax01/Master-the-AWS-cloud-practitioner-cert/blob/main/Kenza%20CCP%20banner.gif" width="1100" alt="kenza banner">
 </p>
 
 ## 📚 **Key Tips for Success**
